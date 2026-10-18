@@ -1,0 +1,7 @@
+outputs/
+third_party/
+slurm/logs/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
